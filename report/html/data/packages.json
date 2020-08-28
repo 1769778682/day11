@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_mp_begin",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "8d1aaf8335ab01e3",
+        "parentUid" : "b09d85d3abb2f203bae779484832a67a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598518165569,
+          "stop" : 1598518165569,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b09d85d3abb2f203bae779484832a67a"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "test_mp_login[15201405167-246810]",
+        "uid" : "32848c6b68d3162f",
+        "parentUid" : "f24581d2b0823ced5feade2d0a0a1b3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598518172264,
+          "stop" : 1598518173740,
+          "duration" : 1476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'246810'", "'15201405167'" ]
+      } ],
+      "uid" : "f24581d2b0823ced5feade2d0a0a1b3c"
+    }, {
+      "name" : "test_mp_pub_ariticle",
+      "children" : [ {
+        "name" : "test_mp_pub[啦啦啦啦啦啦啦-{}-出淤泥而不染，濯清涟而不妖-数据库]",
+        "uid" : "6ea9670cfac66df7",
+        "parentUid" : "5312e2b54042cd17c6482ec7cb34e88f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598518174342,
+          "stop" : 1598518178019,
+          "duration" : 3677
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'出淤泥而不染，濯清涟而不妖'", "'啦啦啦啦啦啦啦-{}'", "'数据库'" ]
+      } ],
+      "uid" : "5312e2b54042cd17c6482ec7cb34e88f"
+    }, {
+      "name" : "test_mp_end",
+      "children" : [ {
+        "name" : "test_mp_end",
+        "uid" : "abbb494f58166d27",
+        "parentUid" : "79cae6fa735806edc5a12ec7deaa11a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598518178033,
+          "stop" : 1598518183302,
+          "duration" : 5269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79cae6fa735806edc5a12ec7deaa11a7"
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

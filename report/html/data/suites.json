@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_mp_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "8d1aaf8335ab01e3",
+          "parentUid" : "4b00e99c8391c3315949dd8ff953fd54",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598518165569,
+            "stop" : 1598518165569,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4b00e99c8391c3315949dd8ff953fd54"
+      } ],
+      "uid" : "ac592febc30ecd1ac41df6eb6a818d71"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login[15201405167-246810]",
+          "uid" : "32848c6b68d3162f",
+          "parentUid" : "dfcce83baf6a47a17046a7df0b4716da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598518172264,
+            "stop" : 1598518173740,
+            "duration" : 1476
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'246810'", "'15201405167'" ]
+        } ],
+        "uid" : "dfcce83baf6a47a17046a7df0b4716da"
+      } ],
+      "uid" : "3e872ab99f963e7e4b52bc78a3fd25b1"
+    }, {
+      "name" : "test_mp_pub_ariticle",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_pub[啦啦啦啦啦啦啦-{}-出淤泥而不染，濯清涟而不妖-数据库]",
+          "uid" : "6ea9670cfac66df7",
+          "parentUid" : "febb6aebf44c8e718bde3fe3b8de71e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598518174342,
+            "stop" : 1598518178019,
+            "duration" : 3677
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'出淤泥而不染，濯清涟而不妖'", "'啦啦啦啦啦啦啦-{}'", "'数据库'" ]
+        } ],
+        "uid" : "febb6aebf44c8e718bde3fe3b8de71e7"
+      } ],
+      "uid" : "07b6078263e458904b8a262fe2ec0866"
+    }, {
+      "name" : "test_mp_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_mp_end",
+          "uid" : "abbb494f58166d27",
+          "parentUid" : "03222b647d20e0e761c961c410da1606",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598518178033,
+            "stop" : 1598518183302,
+            "duration" : 5269
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "03222b647d20e0e761c961c410da1606"
+      } ],
+      "uid" : "0a9cd8c4308ab4795dd56f7bd194bd2b"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

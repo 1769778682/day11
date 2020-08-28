@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 27 16:49:34 CST 2020","Thu Aug 27 16:49:38 CST 2020","3677","scripts","test_mp_pub_ariticle","TestMpLogin","","","test_mp_pub[啦啦啦啦啦啦啦-{}-出淤泥而不染，濯清涟而不妖-数据库]",""
+"passed","Thu Aug 27 16:49:38 CST 2020","Thu Aug 27 16:49:43 CST 2020","5269","scripts","test_mp_end","TestEnd","","","test_mp_end",""
+"passed","Thu Aug 27 16:49:25 CST 2020","Thu Aug 27 16:49:25 CST 2020","0","scripts","test_mp_begin","TestBegin","","","test_begin",""
+"passed","Thu Aug 27 16:49:32 CST 2020","Thu Aug 27 16:49:33 CST 2020","1476","scripts","test_mp_login","TestMpLogin","","","test_mp_login[15201405167-246810]",""

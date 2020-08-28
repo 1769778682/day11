@@ -1,0 +1,41 @@
+[ {
+  "uid" : "8d1aaf8335ab01e3",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598518165569,
+    "stop" : 1598518165569,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abbb494f58166d27",
+  "name" : "test_mp_end",
+  "time" : {
+    "start" : 1598518178033,
+    "stop" : 1598518183302,
+    "duration" : 5269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32848c6b68d3162f",
+  "name" : "test_mp_login[15201405167-246810]",
+  "time" : {
+    "start" : 1598518172264,
+    "stop" : 1598518173740,
+    "duration" : 1476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ea9670cfac66df7",
+  "name" : "test_mp_pub[啦啦啦啦啦啦啦-{}-出淤泥而不染，濯清涟而不妖-数据库]",
+  "time" : {
+    "start" : 1598518174342,
+    "stop" : 1598518178019,
+    "duration" : 3677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
